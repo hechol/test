@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DVideoPlayer</string>
+    <string name="current_position">current_position</string>
+    <string name="current_file">current_file</string>
+</resources>
